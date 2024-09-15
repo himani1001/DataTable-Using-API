@@ -20,31 +20,29 @@ To get started with this project, follow the instructions below.
 
 ### Installation
 
-1. **Clone the repository:**
+1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/artwork-collection.git
+   git clone https://github.com/your-username/dataTable-Using-API.git
    ```
 
-2. **Navigate into the project directory:**
+2. Navigate into the project directory:
 
    ```bash
-   cd artwork-collection
+   cd dataTable-Using-API
    ```
 
-3. **Install the dependencies:**
+3. Install the dependencies using `npm`:
 
    ```bash
    npm install
    ```
 
-### Running the Application
+   **OR** if you are using `yarn`, run:
 
-To start the development server and view the application, run:
-
-```bash
-npm start
-```
+   ```bash
+   yarn install
+   ```
 
 The application will be available at `http://localhost:3000`.
 

@@ -1,6 +1,6 @@
 # DataTable Using API 
 
-Welcome to the Artwork Collection web application! This project allows users to view and interact with a collection of artworks fetched from an API, featuring capabilities such as pagination, row selection, and maintaining selections across multiple pages.
+Welcome to the DataTable Using API web application! This project allows users to view and interact with a collection of artworks fetched from an API, featuring capabilities such as pagination, row selection, and maintaining selections across multiple pages.
 
 ## Features
 

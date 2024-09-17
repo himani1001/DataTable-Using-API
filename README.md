@@ -59,6 +59,11 @@ The application will be available at `http://localhost:3000`.
 - Axios
 - React Icons
 
+### UI
+
+![image](https://github.com/user-attachments/assets/df8d0a4a-a08e-4209-9468-061a84d45e67)
+![image](https://github.com/user-attachments/assets/35018151-e11f-4bb6-9d50-488730c14839)
+
 ### Contributing
 
 Contributions are welcome! Please fork the repository, make your changes, and submit a pull request.
